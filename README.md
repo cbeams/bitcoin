@@ -81,3 +81,4 @@ Periodically the translations are pulled from Transifex and merged into the git 
 
 **Important**: We do not accept translation changes as github pull request because the next
 pull from Transifex would automatically overwrite them again.
+bogus
